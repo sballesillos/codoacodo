@@ -27,6 +27,11 @@ body {
     margin-top: 120px;
 }
 
+.logo-centrado img{
+width: 20%;
+}
+
+
 .navbar-index{
     margin: 0;
     padding: 0;
@@ -43,7 +48,7 @@ body {
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
 }
 
-.logo-nav{height: 80%;
+.logo-nav{height: 60%;
     overflow: hidden;
     margin-left: 1em;
 }
