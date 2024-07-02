@@ -9,7 +9,7 @@ url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700
 
 body {
     font-family: Mon;
-    background-color: #f9f9f9;
+    background-color: #d9d9d9;
     color:white;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .logo-centrado img{
-width: 15%;
+width: 20%;
 }
 
 
@@ -38,7 +38,7 @@ width: 15%;
     top: 0;
     width: 100vw;
     height: 100px;
-    background-color: #390E8C;
+    background-color: #032387;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -63,14 +63,14 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
-    color: #ffd200;
+    color: #032387;
 }
 
 form {
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #390e8c;
+    background-color: #032387;
     border: 1px solid lightslategray;
     border-radius: 5px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -79,7 +79,7 @@ table {
     max-width: 90%;
     margin: 0 auto;
     padding: 20px;
-    background-color: #390e8c;
+    background-color: #032387;
     border: 1px solid lightslategray;
     border-radius: 5px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
@@ -138,8 +138,8 @@ button:hover {
 a {
     padding: 8px;
     margin:4px;
-    background-color: #fdab13;
-    color: #1d1a39;
+    background-color: #0CC0DF;
+    color: #032387;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -149,6 +149,6 @@ a {
 }
 
 a:hover {
-    background-color: #1d1a39;
-    color:#fdab13
+    background-color: #0097B2;
+    color:#032387;
 }
